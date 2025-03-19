@@ -2,15 +2,13 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f8f8f8;
-    color: #333;
+    text-align: center;
 }
 
 header {
-    background-color: #8B5A2B;
+    background-color: #6b4f2c;
     color: white;
     padding: 20px;
-    text-align: center;
 }
 
 nav ul {
@@ -29,34 +27,15 @@ nav ul li a {
 }
 
 .hero {
-    background: url('img/hero.jpg') center/cover no-repeat;
-    color: white;
-    text-align: center;
-    padding: 100px 20px;
-}
-
-.services {
-    padding: 40px;
-    background-color: white;
-    text-align: center;
-}
-
-.services ul {
-    list-style: none;
-    padding: 0;
-}
-
-.services ul li {
-    background: #eee;
-    padding: 10px;
-    margin: 5px;
-    border-radius: 5px;
+    background-color: #f4f1ea;
+    padding: 50px 20px;
 }
 
 footer {
-    background-color: #333;
+    background-color: #6b4f2c;
     color: white;
-    text-align: center;
     padding: 10px;
-    margin-top: 20px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
 }
