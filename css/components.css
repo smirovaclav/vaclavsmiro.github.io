@@ -1,0 +1,36 @@
+.card {
+  background: var(--card);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 20px;
+}
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: var(--brand);
+  color: #fff;
+  border: none;
+  border-radius: 999px;
+  padding: 10px 14px;
+  font-weight: 600;
+  cursor: pointer;
+  box-shadow: 0 6px 16px var(--ring);
+}
+
+.btn.secondary {
+  background: #eef2f7;
+  color: #0a4f95;
+  border: 1px solid #d7dee8;
+  box-shadow: none;
+}
+
+.bullet {
+  width: 12px;
+  height: 12px;
+  border-radius: 3px;
+  background: var(--brand);
+  flex-shrink: 0;
+  margin-top: 6px;
+}
