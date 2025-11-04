@@ -7,7 +7,7 @@ h2 {
   display: grid;
   grid-template-columns: repeat(12, 1fr);
   gap: 16px;
-  margin-bottom: 12px !important;
+  margin-bottom: 24px !important;
 }
 
 .list {
