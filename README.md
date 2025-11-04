@@ -1,2 +1,2 @@
-# vaclavsmiro.github.io
+# smirovaclav.github.io
 CV
